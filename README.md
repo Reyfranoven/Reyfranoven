@@ -32,4 +32,4 @@ Customer segmentation analysis to identify high-value and at-risk customers usin
 
 ## 📫 Contact
 - Email: fidelispas88@gmail.com
-- LinkedIn: (isi link nanti)
+- LinkedIn: www.linkedin.com/in/fidelis-reyfranoven-0a4986279
